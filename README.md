@@ -1,7 +1,14 @@
 # SystemDesign_inOneWeek
 
-### Got an interview!!!!
-### It is next week??
-### System Design???? 
-### what tf is kafka? CDN? Cache? 
-### Let us just memorize the high-level-deisgn diagram and watch "catch me if you can" :)
+### Interview Time Management (total of 45 mins)
+
+- 10 mins: use case discussion and requirement clarification
+  - users/custormers/business cases
+  - scale (read and write)
+  - performance
+
+- 5 mins: summarize functional and non-functional APIs
+- 10 mins: high-level architecture
+- 20 mins: deep dive
+  - key points discussion
+  - database choice
