@@ -1,11 +1,11 @@
 # Design Online Auction/Bidding System (Ebay Auction)
 
-key points:
+### key points:
   - message queue (kafka): 
       - item_ingest_topic: items that needs to be added into the system
       - item_update_topic: items that have had successfull/un-successful bids in the system
 
-storage
+### storage
   - item storage (documentDB): since the items are diverse and do not have a common structure
   - auction storage (redis+sql): redis is used for every item bid with expiration for fast read/write.
 
