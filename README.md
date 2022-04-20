@@ -11,8 +11,7 @@
 - 10 mins: high-level architecture
 - 20 mins: deep dive
   - key points discussion
-  - database choice
-  - database schema
+  - database choice/schema
 
 
 
