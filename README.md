@@ -12,6 +12,7 @@
 - 20 mins: deep dive
   - key points discussion
   - database choice
+  - database schema
 
 
 
