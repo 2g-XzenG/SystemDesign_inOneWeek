@@ -8,10 +8,11 @@
   - performance
 
 - 5 mins: summarize functional and non-functional APIs
-- 10 mins: high-level architecture
-- 20 mins: deep dive
-  - key points discussion
-  - database choice/schema
+- 5 mins: naive design
+- 25 mins: better version (iterate 3-6 times)
+  - list all limitations that violate the non-functional requirements
+  - draw a better version, each time mitigate one limitation
+  - discussion with the interviewer after each iteration
 
 
 
